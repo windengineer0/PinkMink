@@ -1,0 +1,2 @@
+# PinkMink
+Git training course
