@@ -7,3 +7,4 @@ slog = log --pretty=format:'%C(auto)%h %C(yellow)%C(red)%ad %C(blue)%aN%C(auto)%
 ```
 
 :santa:
+:christmas_tree:
